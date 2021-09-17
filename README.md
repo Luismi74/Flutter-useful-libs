@@ -16,4 +16,6 @@
 
 - **[cached_network_image](https://pub.dev/packages/cached_network_image)** A flutter library to show images from the internet and keep them in the cache directory.
 
+- **[lint](https://pub.dev/packages/lint)** The set of rules follows the Effective Dart: Style Guide.
+
 ## Others
